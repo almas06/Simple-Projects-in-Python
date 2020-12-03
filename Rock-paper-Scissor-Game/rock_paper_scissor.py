@@ -9,7 +9,7 @@ root.configure(bg="powderblue")
 
 #*************************Images***************************************************************************
 rockPhoto = PhotoImage(file = "r.png")
-paperPhoto = PhotoImage(file="p1.png")
+paperPhoto = PhotoImage(file="p.png")
 scissorPhoto = PhotoImage(file="s.png")
 winPhoto = PhotoImage(file="youwin.png")
 loosePhoto = PhotoImage(file="youloose.png")
